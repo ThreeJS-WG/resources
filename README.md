@@ -9,6 +9,9 @@
 - [Discord](https://discordapp.com/invite/HF4UdyF)
 - [Twitter](https://twitter.com/threejs)
 
+## Online Courses
+
+- [The ultimate Three.js course](https://threejs-journey.com/)
 
 ## People to Follow on Twitter
 

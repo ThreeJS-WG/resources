@@ -4,6 +4,7 @@
 
 - [Web](https://threejs.org/)
 - [Documentation](https://threejs.org/docs/)
+- [three.js fundamentals](https://threejs.org/manual/#en/fundamentals)
 - [3D Editor](https://threejs.org/editor/)
 - [GitHub](https://github.com/mrdoob/three.js/)
 - [Discord](https://discordapp.com/invite/HF4UdyF)

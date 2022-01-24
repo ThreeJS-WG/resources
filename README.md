@@ -1,6 +1,9 @@
 # Recursos de Three.js
 
+Listado de recursos Three.js para facilitar el aprendizaje de esta librería 3D.
+
 ## Enlaces oficiales
+
 | Enlace | Descripción |
 | ------ | ----------- |
 | [Web](https://threejs.org/) | Web oficial |

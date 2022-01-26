@@ -1,27 +1,41 @@
-# Three.js resources
+# Recursos de Three.js
 
-## Oficial links
+Listado de recursos Three.js para facilitar el aprendizaje de esta librería 3D.
 
-- [Web](https://threejs.org/)
-- [Documentation](https://threejs.org/docs/)
-- [three.js fundamentals](https://threejs.org/manual/#en/fundamentals)
-- [3D Editor](https://threejs.org/editor/)
-- [GitHub](https://github.com/mrdoob/three.js/)
-- [Discord](https://discordapp.com/invite/HF4UdyF)
-- [Twitter](https://twitter.com/threejs)
+## Enlaces oficiales
+
+| Enlace | Descripción |
+| ------ | ----------- |
+| [Web](https://threejs.org/) | Web oficial |
+| [Documentation](https://threejs.org/docs/) | Documentación de la API |
+| [three.js fundamentals](https://threejs.org/manual/#en/fundamentals) | Serie de artículos de los fundamentes de Three.js |
+| [3D Editor](https://threejs.org/editor/) | Editor 3D en web _(como dice @pacosegovia: un 3D Studio Max en la web)_ |
+| [GitHub](https://github.com/mrdoob/three.js/) | Repositorio en GitHub del proyecto |
+| [Discord](https://discordapp.com/invite/HF4UdyF) | Servidor de Discord para |
+| [Twitter](https://twitter.com/threejs) | Cuenta de Twitter de Three.js |
 
 ## Online Courses
 
-- [The ultimate Three.js course](https://threejs-journey.com/)
+| Enlace | Descripción | Idioma | Coste |
+| ------ | ----------- | :-----:| -----:|
+| [The ultimate Three.js course](https://threejs-journey.com/) | Curso online de [Bruno Simon](https://twitter.com/bruno_simon) | `English` | `$95` |
+
+## Vídeos en YouTube
+
+| Enlace | Descripción | Idioma | Nivel |
+| ------ | ----------- | :-----:| :---: |
+| [Build a Mindblowing 3D Portfolio Website](https://www.youtube.com/watch?v=Q7AOvWpIVHU) | Learn the basics of Three.js - a tool for building amazing 3D graphics with JavaScript. In this tutorial, we create an animated 3D scrolling animation for a portfolio website  | `English` | `Beginer` |
 
 ## Articles
 
-- [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/)
-- [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
-- [Color Spaces](https://ciechanow.ski/color-spaces/)
-- [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces/)
-- [GPS](https://ciechanow.ski/gps/)
-- [Tesseract](https://ciechanow.ski/tesseract/)
+| Enlace | Descripción | Idioma | Tags |
+| ------ | ----------- | :-----:|-|
+| [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) | Interesante y detallado artículo sobre las luces, las sombras, y sus proyecciones | `English` | `Lights` `Shadows` |
+| [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/) | Conoce todo lo relacionado con las cámaras y lentes en entornos 3D  | `English` | `Cameras` `Lenses` |
+| [Color Spaces](https://ciechanow.ski/color-spaces/) | Detallado artículo sobre los espacios de colores  | `English` | `Color` |
+| [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces/) | Extenso artículo explicando, matemáticamente, el comportamiento de las curvas, cómo generarlas y cómo controlarlas | `English` | `Curves` `Surfaces` |
+| [GPS](https://ciechanow.ski/gps/) | Artículo que explica paso a paso como generar un Sistema de Posicionamiento Global en un entorno 3D  | `English` | `GPS` `Geometría` |
+| [Tesseract](https://ciechanow.ski/tesseract/) | Conoce cómo conseguir la cuarta dimensión de un cubo con las proyeccions  | `English` | `Primitives` |
 
 ## glTF viewers
 

@@ -19,7 +19,7 @@ Listado de recursos Three.js para facilitar el aprendizaje de esta librería 3D.
 | Enlace | Descripción | Idioma | Coste |
 | ------ | ----------- | :-----:| -----:|
 | [The ultimate Three.js course](https://threejs-journey.com/) | Curso online de [Bruno Simon](https://twitter.com/bruno_simon) | `English` | `$95` |
-| [Metaverso con Threejs en Javascript](https://www.udemy.com/course/metaverso-con-threejs-en-javascript/) | Curso online de como crear un metaverso con Threejs en Javascript | `Spanish` | `~ 19,99€` |
+| [Metaverso con Threejs en Javascript](https://www.udemy.com/course/metaverso-con-threejs-en-javascript/) | Curso online de como crear un metaverso con Threejs en Javascript | `Spanish` | `~19,99€` |
 
 ## Vídeos en YouTube
 

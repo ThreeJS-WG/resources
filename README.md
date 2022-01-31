@@ -49,5 +49,5 @@
 
 ## Samples
 
+- [WG samples](SAMPLES.md) 
 - [toshiya-marukubo](https://toshiya-marukubo.github.io/study-of-webgl/index.html)
-- [WG samples](SAMPLES) 

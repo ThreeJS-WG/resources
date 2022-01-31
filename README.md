@@ -60,3 +60,9 @@ Listado de recursos Three.js para facilitar el aprendizaje de esta librería 3D.
 - [tdhooper](https://twitter.com/tdhooper)
 - [WebGPU](https://twitter.com/WebGPU)
 - [pmndrs](https://twitter.com/pmndrs) 
+- [akella](https://twitter.com/akella) 
+
+## Samples
+
+- [WG samples](SAMPLES.md) 
+- [toshiya-marukubo](https://toshiya-marukubo.github.io/study-of-webgl/index.html)

@@ -61,6 +61,7 @@ Listado de recursos Three.js para facilitar el aprendizaje de esta librería 3D.
 - [WebGPU](https://twitter.com/WebGPU)
 - [pmndrs](https://twitter.com/pmndrs) 
 - [akella](https://twitter.com/akella) 
+- [m_hakozaki](https://twitter.com/m_hakozaki)
 
 ## Samples
 
